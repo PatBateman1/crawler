@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Find the Celebrity",
+    "difficulty": "Medium",
+    "frequency": "0.1014",
+    "link": "https://leetcode.com/problems/find-the-celebrity"
+  },
+  {
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+  },
+  {
+    "title": "Alien Dictionary",
+    "difficulty": "Hard",
+    "frequency": "0.01947",
+    "link": "https://leetcode.com/problems/alien-dictionary"
+  },
+  {
+    "title": "LFU Cache",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/lfu-cache"
+  },
+  {
+    "title": "Word Search",
+    "difficulty": "Medium",
+    "frequency": "0.01574",
+    "link": "https://leetcode.com/problems/word-search"
+  },
+  {
+    "title": "Word Break",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/word-break"
+  },
+  {
+    "title": "Read N Characters Given Read4 II - Call multiple times",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/read-n-characters-given-read4-ii---call-multiple-times"
+  },
+  {
+    "title": "Basic Calculator",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/basic-calculator"
+  },
+  {
+    "title": "Maximal Rectangle",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/maximal-rectangle"
+  },
+  {
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "title": "Employee Free Time",
+    "difficulty": "Hard",
+    "frequency": "0.2283",
+    "link": "https://leetcode.com/problems/employee-free-time"
+  },
+  {
+    "title": "Valid Sudoku",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/valid-sudoku"
+  },
+  {
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "title": "Subdomain Visit Count",
+    "difficulty": "Easy",
+    "frequency": "0.1465",
+    "link": "https://leetcode.com/problems/subdomain-visit-count"
+  },
+  {
+    "title": "Course Schedule II",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/course-schedule-ii"
+  },
+  {
+    "title": "Happy Number",
+    "difficulty": "Easy",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/happy-number"
+  },
+  {
+    "title": "Decode Ways",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/decode-ways"
+  },
+  {
+    "title": "Is Subsequence",
+    "difficulty": "Easy",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/is-subsequence"
+  },
+  {
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
+  },
+  {
+    "title": "Find Median Given Frequency of Numbers",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/find-median-given-frequency-of-numbers"
+  },
+  {
+    "title": "Longest Word in Dictionary",
+    "difficulty": "Easy",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/longest-word-in-dictionary"
+  },
+  {
+    "title": "Find the Closest Palindrome",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/find-the-closest-palindrome"
+  },
+  {
+    "title": "Basic Calculator IV",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/basic-calculator-iv"
+  },
+  {
+    "title": "Longest Common Prefix",
+    "difficulty": "Easy",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/longest-common-prefix"
+  },
+  {
+    "title": "Smallest Range Covering Elements from K Lists",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists"
+  },
+  {
+    "title": "Basic Calculator III",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/basic-calculator-iii"
+  },
+  {
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o(1)"
+  },
+  {
+    "title": "Word Break II",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/word-break-ii"
+  },
+  {
+    "title": "Number of Atoms",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/number-of-atoms"
+  },
+  {
+    "title": "Serialize and Deserialize N-ary Tree",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree"
+  },
+  {
+    "title": "Word Ladder II",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/word-ladder-ii"
+  },
+  {
+    "title": "Maximum Length of Repeated Subarray",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray"
+  },
+  {
+    "title": "Design Hit Counter",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/design-hit-counter"
+  },
+  {
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/sliding-window-maximum"
+  }
+]

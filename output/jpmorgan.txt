@@ -1,0 +1,104 @@
+[
+  {
+    "title": "Reverse Integer",
+    "difficulty": "Easy",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/reverse-integer"
+  },
+  {
+    "title": "Palindrome Number",
+    "difficulty": "Easy",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/palindrome-number"
+  },
+  {
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+  },
+  {
+    "title": "Word Search",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/word-search"
+  },
+  {
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "frequency": "0.006443",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "title": "Best Time to Buy and Sell Stock IV",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv"
+  },
+  {
+    "title": "Coin Change",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/coin-change"
+  },
+  {
+    "title": "Spiral Matrix",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/spiral-matrix"
+  },
+  {
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "frequency": "1.229",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "title": "Integer to English Words",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/integer-to-english-words"
+  },
+  {
+    "title": "Maximum Subarray",
+    "difficulty": "Easy",
+    "frequency": "0.002693",
+    "link": "https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "title": "Intersection of Two Arrays",
+    "difficulty": "Easy",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays"
+  },
+  {
+    "title": "Next Permutation",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/next-permutation"
+  },
+  {
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "frequency": "0.007531",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "title": "Happy Number",
+    "difficulty": "Easy",
+    "frequency": "2.451",
+    "link": "https://leetcode.com/problems/happy-number"
+  }
+]

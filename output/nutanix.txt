@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Happy Number",
+    "difficulty": "Easy",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/happy-number"
+  },
+  {
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "title": "Remove K Digits",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/remove-k-digits"
+  },
+  {
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "frequency": "0.005218",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "title": "Populating Next Right Pointers in Each Node",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node"
+  },
+  {
+    "title": "Circular Array Loop",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/circular-array-loop"
+  },
+  {
+    "title": "Course Schedule II",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/course-schedule-ii"
+  },
+  {
+    "title": "Generate Parentheses",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/generate-parentheses"
+  },
+  {
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/sliding-window-maximum"
+  },
+  {
+    "title": "Most Profit Assigning Work",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/most-profit-assigning-work"
+  },
+  {
+    "title": "Task Scheduler",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/task-scheduler"
+  },
+  {
+    "title": "Course Schedule",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/course-schedule"
+  },
+  {
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "frequency": "0.009981",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+  },
+  {
+    "title": "Jump Game II",
+    "difficulty": "Hard",
+    "frequency": "0.2355",
+    "link": "https://leetcode.com/problems/jump-game-ii"
+  },
+  {
+    "title": "Broken Calculator",
+    "difficulty": "Medium",
+    "frequency": "0.5624",
+    "link": "https://leetcode.com/problems/broken-calculator"
+  },
+  {
+    "title": "Remove Duplicate Letters",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/remove-duplicate-letters"
+  },
+  {
+    "title": "Check If Word Is Valid After Substitutions",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/check-if-word-is-valid-after-substitutions"
+  },
+  {
+    "title": "Kth Largest Element in a Stream",
+    "difficulty": "Easy",
+    "frequency": "0.01987",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream"
+  },
+  {
+    "title": "Grumpy Bookstore Owner",
+    "difficulty": "Medium",
+    "frequency": "0.4374",
+    "link": "https://leetcode.com/problems/grumpy-bookstore-owner"
+  },
+  {
+    "title": "Find the Closest Palindrome",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/find-the-closest-palindrome"
+  },
+  {
+    "title": "Frog Jump",
+    "difficulty": "Hard",
+    "frequency": "0.03356",
+    "link": "https://leetcode.com/problems/frog-jump"
+  },
+  {
+    "title": "Swap For Longest Repeated Character Substring",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/swap-for-longest-repeated-character-substring"
+  },
+  {
+    "title": "Online Majority Element In Subarray",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/online-majority-element-in-subarray"
+  },
+  {
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "Medium",
+    "frequency": "0.01114",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+  }
+]

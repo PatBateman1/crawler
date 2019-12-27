@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Text Justification",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/text-justification"
+  },
+  {
+    "title": "Course Schedule II",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/course-schedule-ii"
+  },
+  {
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal"
+  },
+  {
+    "title": "Edit Distance",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/edit-distance"
+  },
+  {
+    "title": "Add Strings",
+    "difficulty": "Easy",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/add-strings"
+  },
+  {
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/3sum"
+  },
+  {
+    "title": "Alien Dictionary",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/alien-dictionary"
+  },
+  {
+    "title": "Squirrel Simulation",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/squirrel-simulation"
+  },
+  {
+    "title": "Word Break",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/word-break"
+  },
+  {
+    "title": "Falling Squares",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/falling-squares"
+  },
+  {
+    "title": "Encode and Decode Strings",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/encode-and-decode-strings"
+  },
+  {
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "title": "Word Ladder",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/word-ladder"
+  },
+  {
+    "title": "Pancake Sorting",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/pancake-sorting"
+  },
+  {
+    "title": "Available Captures for Rook",
+    "difficulty": "Easy",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/available-captures-for-rook"
+  },
+  {
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/implement-trie-(prefix-tree)"
+  },
+  {
+    "title": "Combination Sum",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/combination-sum"
+  },
+  {
+    "title": "Compare Version Numbers",
+    "difficulty": "Medium",
+    "frequency": "0.02183",
+    "link": "https://leetcode.com/problems/compare-version-numbers"
+  }
+]

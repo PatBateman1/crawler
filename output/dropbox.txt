@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Game of Life",
+    "difficulty": "Medium",
+    "frequency": "0.9989",
+    "link": "https://leetcode.com/problems/game-of-life"
+  },
+  {
+    "title": "Find Duplicate File in System",
+    "difficulty": "Medium",
+    "frequency": "1.310",
+    "link": "https://leetcode.com/problems/find-duplicate-file-in-system"
+  },
+  {
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "frequency": "0.02071",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "title": "Implement strStr()",
+    "difficulty": "Easy",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/implement-strstr()"
+  },
+  {
+    "title": "Merge k Sorted Lists",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+  },
+  {
+    "title": "Design Phone Directory",
+    "difficulty": "Medium",
+    "frequency": "0.9032",
+    "link": "https://leetcode.com/problems/design-phone-directory"
+  },
+  {
+    "title": "Design Hit Counter",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/design-hit-counter"
+  },
+  {
+    "title": "Word Pattern",
+    "difficulty": "Easy",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/word-pattern"
+  },
+  {
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+  },
+  {
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+  },
+  {
+    "title": "Word Break II",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/word-break-ii"
+  },
+  {
+    "title": "Minimize Malware Spread",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/minimize-malware-spread"
+  },
+  {
+    "title": "Minimize Malware Spread II",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/minimize-malware-spread-ii"
+  },
+  {
+    "title": "Minimum Path Sum",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/minimum-path-sum"
+  },
+  {
+    "title": "Grid Illumination",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/grid-illumination"
+  },
+  {
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "Easy",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60"
+  },
+  {
+    "title": "Design Search Autocomplete System",
+    "difficulty": "Hard",
+    "frequency": "0.2848",
+    "link": "https://leetcode.com/problems/design-search-autocomplete-system"
+  },
+  {
+    "title": "Number of Valid Words for Each Puzzle",
+    "difficulty": "Hard",
+    "frequency": "0.3731",
+    "link": "https://leetcode.com/problems/number-of-valid-words-for-each-puzzle"
+  },
+  {
+    "title": "Web Crawler",
+    "difficulty": "Medium",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/web-crawler"
+  },
+  {
+    "title": "Check If It Is a Good Array",
+    "difficulty": "Hard",
+    "frequency": "0.000",
+    "link": "https://leetcode.com/problems/check-if-it-is-a-good-array"
+  },
+  {
+    "title": "Web Crawler Multithreaded",
+    "difficulty": "Medium",
+    "frequency": "0.5923",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded"
+  }
+]
