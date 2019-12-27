@@ -54,7 +54,16 @@ const saveJson = function (answers, company) {
 const craw = function (company) {
     const url = "https://leetcode.com/graphql";
 
-    const cookie = '__cfduid=d851d010836b42e3e0d64fcac85774e371575704083; _ga=GA1.2.1614243766.1575704083; LEETCODE_SESSION=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfYXV0aF91c2VyX2lkIjoiMjMxMzY0NSIsIl9hdXRoX3VzZXJfYmFja2VuZCI6ImFsbGF1dGguYWNjb3VudC5hdXRoX2JhY2tlbmRzLkF1dGhlbnRpY2F0aW9uQmFja2VuZCIsIl9hdXRoX3VzZXJfaGFzaCI6ImE3YzM2YzM3YTI2ZDc4OGY5ZWJlYjdmNzNlZGViODkxYThjMDBjMjUiLCJpZCI6MjMxMzY0NSwiZW1haWwiOiJ6ejI3MDBAY29sdW1iaWEuZWR1IiwidXNlcm5hbWUiOiJQYXRCYXRlbWFuIiwidXNlcl9zbHVnIjoicGF0YmF0ZW1hbiIsImF2YXRhciI6Imh0dHBzOi8vYXNzZXRzLmxlZXRjb2RlLmNvbS91c2Vycy9wYXRiYXRlbWFuL2F2YXRhcl8xNTc0ODA1NTQzLnBuZyIsInRpbWVzdGFtcCI6IjIwMTktMTItMTMgMjI6MzY6NTkuNDczNzg5KzAwOjAwIiwiSVAiOiI3Mi4yMjkuMjU1LjEwIiwiSURFTlRJVFkiOiIyMWQ5N2IxMzkwMjZlODg1YjEwZmM3OTFhMmVkZjQ3NyIsIl9zZXNzaW9uX2V4cGlyeSI6MTIwOTYwMH0.Wl-ZVIohYf06cD2cKMFus22qcpC5HBjpSwq85-PF6II; csrftoken=2SKdGr2DyczxkmiBtyVWyPqn6pnGcmvPCVTf98EWi3utEw6lqngu2kDJ8HLVUUnf; _gid=GA1.2.101684419.1577306237; __atuvc=3%7C49%2C7%7C50%2C4%7C51%2C2%7C52; c_a_u="UGF0QmF0ZW1hbg==:1iki9h:HCRyM3PC9LFOzLVc1Wfsa6e-fw4"; _gat=1';
+    const cookie = '__cfduid=d851d010836b42e3e0d64fcac85774e371575704083; _ga=GA1.2.1614243766.1575704083; LEETCODE_SESS' +
+        'ION=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfYXV0aF91c2VyX2lkIjoiMjMxMzY0NSIsIl9hdXRoX3VzZXJfYmFja2VuZCI6ImFsbG' +
+        'F1dGguYWNjb3VudC5hdXRoX2JhY2tlbmRzLkF1dGhlbnRpY2F0aW9uQmFja2VuZCIsIl9hdXRoX3VzZXJfaGFzaCI6ImE3YzM2YzM3YTI2ZDc4O' +
+        'GY5ZWJlYjdmNzNlZGViODkxYThjMDBjMjUiLCJpZCI6MjMxMzY0NSwiZW1haWwiOiJ6ejI3MDBAY29sdW1iaWEuZWR1IiwidXNlcm5hbWUiOiJQ' +
+        'YXRCYXRlbWFuIiwidXNlcl9zbHVnIjoicGF0YmF0ZW1hbiIsImF2YXRhciI6Imh0dHBzOi8vYXNzZXRzLmxlZXRjb2RlLmNvbS91c2Vycy9wYXR' +
+        'iYXRlbWFuL2F2YXRhcl8xNTc0ODA1NTQzLnBuZyIsInRpbWVzdGFtcCI6IjIwMTktMTItMTMgMjI6MzY6NTkuNDczNzg5KzAwOjAwIiwiSVAiOi' +
+        'I3Mi4yMjkuMjU1LjEwIiwiSURFTlRJVFkiOiIyMWQ5N2IxMzkwMjZlODg1YjEwZmM3OTFhMmVkZjQ3NyIsIl9zZXNzaW9uX2V4cGlyeSI6MTIwO' +
+        'TYwMH0.Wl-ZVIohYf06cD2cKMFus22qcpC5HBjpSwq85-PF6II; csrftoken=2SKdGr2DyczxkmiBtyVWyPqn6pnGcmvPCVTf98EWi3utEw6lq' +
+        'ngu2kDJ8HLVUUnf; _gid=GA1.2.101684419.1577306237; __atuvc=3%7C49%2C7%7C50%2C4%7C51%2C2%7C52; c_a_u="UGF0QmF0ZW1' +
+        'hbg==:1iki9h:HCRyM3PC9LFOzLVc1Wfsa6e-fw4"; _gat=1';
 
     const useragent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79." +
         "0.3945.88 Safari/537.36";
